@@ -1,6 +1,0 @@
-,Random Forest,XGBoost
-Accuracy,0.915,0.9195
-Precision,0.0986,0.1667
-Recall,0.0069,0.0002
-F1 Score,0.0128,0.0004
-Confusion matrix,"[[56243, 311], [4915, 34]]","[[56549, 5], [4948, 1]]"
